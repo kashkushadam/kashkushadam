@@ -15,5 +15,4 @@ Systematic trading research (in progress)
 Developing a research framework to evaluate momentum, relative strength, and company fundamentals. The aim is to move from rule-based observations to transparent tests using historical data, risk controls, and out-of-sample evaluation.
 Projects and results will be linked here as they are completed and documented.
 
-Opportunities
 I'm interested in 2027 internships in quantitative research, quantitative development, systematic trading, and finance-focused data science.
